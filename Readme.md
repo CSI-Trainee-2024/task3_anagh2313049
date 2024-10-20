@@ -25,4 +25,4 @@ Follow these steps to set up the game on your local system:
 First, clone the repository to your local system using the following command:
 
 ```bash
-git clone https://github.com/yourusername/space-invaders-game.git
+git clone https://github.com/CSI-Trainee-2024/task3_anagh2313049.git
