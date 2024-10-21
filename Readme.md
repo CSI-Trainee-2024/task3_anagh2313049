@@ -37,10 +37,9 @@ Follow these steps to set up the game on your local machine:
   sudo apt update
   sudo apt install python3
 
- **Install Pygame**  
- Install Pygame using pip:
+3. **Install Pygame**
+   Install Pygame using pip
+   ```bash
+   pip install pygame
 
- ```bash
- pip install pygame
-
-after this your are good to go.
+after this you are all set to run and play the game.
