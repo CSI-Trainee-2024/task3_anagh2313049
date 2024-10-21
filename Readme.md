@@ -1,28 +1,38 @@
 # Space Invaders Game
 
-Welcome to **Space Invaders**, a classic arcade game recreated in Python! This desktop game is built using the Pygame library. Follow the instructions below to set up and run the game on your local machine.
+A classic Space Invaders game built with Python and Pygame. Defend against waves of aliens and score points by shooting them down!
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Credits](#credits)
 
 ## Features
-
-- Classic Space Invaders gameplay
-- Responsive controls for a smooth gaming experience
-- Interactive user interface
-- Real-time enemy movement and shooting mechanics
-
-## Prerequisites
-
-Before you begin, make sure you have the following installed on your system:
-
-- **Python 3.x**: You can download it from [here](https://www.python.org/downloads/).
-- **Pygame Library**: Required for creating games in Python.
+- Move the player spaceship left and right using keyboard controls.
+- Shoot lasers to destroy alien invaders.
+- Multiple levels with increasing difficulty.
+- Score tracking to monitor your performance.
+- Lives system; lose a life when aliens reach the bottom.
+- Sound effects for shooting and other game events.
+- Responsive design to adapt to different screen sizes.
 
 ## Installation
+Follow these steps to set up the game on your local machine:
 
-Follow these steps to set up the game on your local system:
+1. **Clone the Repository**  
+   Fork and clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/CSI-Trainee-2024/task3_anagh2313049.git
+   cd space_invaders
+2. **Install Python**  
+   Make sure you have Python installed on your system. You can choose one of the following methods to install Python:
 
-### 1. Clone the Repository
+- **Using Python Installer**:  
+  Download the Python installer from the [official Python website](https://www.python.org/). Follow the installation instructions for your operating system.
 
-First, clone the repository to your local system using the following command:
-
-```bash
-git clone https://github.com/CSI-Trainee-2024/task3_anagh2313049.git
+- **Using Package Manager (for Linux)**:  
+  If you're on a Linux system, you can install Python using the package manager. For example, on Ubuntu, run:
+  ```bash
+  sudo apt update
+  sudo apt install python3
